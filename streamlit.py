@@ -17,16 +17,16 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Battery dataset paths
 battery_paths = {
-    'LFP': '/home/aadya/scratch/EE499/battery/lfp_25degC',
-    'NMC': '/home/aadya/scratch/EE499/battery/nmc_25degC',
-    'NCA': '/home/aadya/scratch/EE499/battery/nca_25degC',
+    'LFP': 'battery/lfp_25degC',
+    'NMC': 'battery/nmc_25degC',
+    'NCA': 'battery/nca_25degC',
 }
 
 # Checkpoint paths
 checkpoint_paths = {
-    'LFP': '/home/aadya/scratch/EE499/checkpoints/lfp_model.pth',
-    'NMC': '/home/aadya/scratch/EE499/checkpoints/nmc_model.pth',
-    'NCA': '/home/aadya/scratch/EE499/checkpoints/nca_model.pth',
+    'LFP': 'checkpoints/lfp_model.pth',
+    'NMC': 'checkpoints/nmc_model.pth',
+    'NCA': 'checkpoints/nca_model.pth',
 }
 
 # ------------------------------
