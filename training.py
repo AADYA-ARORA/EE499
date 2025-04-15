@@ -81,9 +81,9 @@ def train_model(model, dataloader, epochs=10, lr=1e-3):
 
 # Define battery paths
 battery_paths = {
-    'LFP': '/home/aadya/scratch/EE499/battery/lfp_25degC',
-    'NMC': '/home/aadya/scratch/EE499/battery/nmc_25degC',
-    'NCA': '/home/aadya/scratch/EE499/battery/nca_25degC',
+    'LFP': 'battery/lfp_25degC',
+    'NMC': 'battery/nmc_25degC',
+    'NCA': 'battery/nca_25degC',
 }
 
 # Create checkpoints folder
