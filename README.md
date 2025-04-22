@@ -2,7 +2,7 @@
 
 An advanced deep learning system that predicts internal battery temperatures for different types of EV batteries (LFP, NMC, NCA) using LSTM neural networks. The system helps in selecting the optimal battery type based on external temperature conditions.
 
-![Battery Temperature Prediction](assets/prediction_demo.png)
+![Battery Temperature Prediction](https://github.com/AADYA-ARORA/TEMPEST/blob/main/tempest.png)
 
 ## 🌟 Features
 
