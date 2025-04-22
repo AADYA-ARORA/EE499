@@ -97,11 +97,7 @@ Cross-validation results for different battery combinations:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Contributions are welcome! Please feel free to submit a fork Request.
 
 ## 📧 Contact
 
